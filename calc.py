@@ -23,9 +23,6 @@ def bt_clear():
     expression = ""
     input_text.set(expression)
     flag= False
-''''''
-
-
 
 def bt_equal():
     try:
